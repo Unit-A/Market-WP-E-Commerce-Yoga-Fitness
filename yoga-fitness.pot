@@ -1,0 +1,167 @@
+# <!=Copyright (C) 2021 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Yoga Fitness 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/yoga-fitness\n"
+"POT-Creation-Date: 2021-05-27 13:10:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:49
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:62
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:64
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:82
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:83
+msgid "Customize Color, Typography & Background Image"
+msgstr ""
+
+#: functions.php:91
+msgid "Typography Settings"
+msgstr ""
+
+#: functions.php:111
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:112
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:133
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:134
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:156
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:157
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:178 functions.php:198
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:199
+msgid "This is the layout for header."
+msgstr ""
+
+#: functions.php:223
+msgid "Shopping Cart"
+msgstr ""
+
+#: functions.php:224
+msgid "Enable to show Shopping cart in the header."
+msgstr ""
+
+#: functions.php:295 functions.php:311
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:337
+msgid "View Cart"
+msgstr ""
+
+#: functions.php:501
+msgid " Yoga Fitness | Developed By "
+msgstr ""
+
+#: functions.php:502
+msgid " Blossom Themes"
+msgstr ""
+
+#: functions.php:504
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:504
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:511
+msgid "go to top"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Yoga Fitness"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/wordpress-themes/yoga-fitness/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Yoga Fitness is a mobile-friendly and SEO optimized theme with a beautiful "
+"design for fitness and yoga. With Yoga Fitness, you can create a website "
+"for yoga classes, fitness centers, gyms, mediation classes, wellness "
+"center,  gymnastic coaching, spa, massage center, beauty salon, and much "
+"more. The theme includes sections like Banner with CTA buttons, services, "
+"testimonials, team, and many more to provide detailed information about "
+"your business and turn your visitors into customers. The theme is optimized "
+"to load faster and provide a smooth user experience. Yoga Fitness is "
+"translation ready, RTL ready, and WooCommerce compatible. Check demo at "
+"https://blossomthemes.com/theme-demo/?theme=yoga-fitness, read the "
+"documentation at https://docs.blossomthemes.com/yoga-fitness/, and get "
+"support at https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:361
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:362
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:363
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
